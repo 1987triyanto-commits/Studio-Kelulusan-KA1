@@ -1,0 +1,6 @@
+{
+  "name": "SDN Karang Anyar 01 Pagi - Sinematik Kelulusan",
+  "description": "Aplikasi interaktif pemutar film sinematik dan perancang cita-cita siswa SDN Karang Anyar 01 Pagi bernuansa hangat, emosional, dan melatih budi luhur.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
